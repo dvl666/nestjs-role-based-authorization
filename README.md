@@ -28,6 +28,8 @@ $ npm install --save @nestjs/passport @nestjs/jwt passport passport-local passpo
 $ npm install --save-dev @types/passport-local @types/passport-jwt
 ```
 
+Informacion sacada de: https://shpota.com/2022/07/16/role-based-authorization-with-jwt-using-nestjs.html
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
